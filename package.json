@@ -1,0 +1,26 @@
+{
+  "name": "metalsmith-mingo",
+  "version": "0.1.0",
+  "description": "Query files with MongoDB query language",
+  "author": "doup <asier@illarra.com>",
+  "license": "MIT",
+  "keywords": [
+    "metalsmith",
+    "query",
+    "mongodb",
+    "mingo"
+  ],
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doup/metalsmith-mingo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doup/metalsmith-mingo/issues"
+  },
+  "homepage": "https://github.com/doup/metalsmith-mingo#readme",
+  "dependencies": {
+    "mingo": "^0.6.0"
+  },
+  "devDependencies": {}
+}
