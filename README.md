@@ -1,3 +1,5 @@
+> **THIS PROJECT IS NO LONGER MAINTAINED, OPEN A ISSUE IF YOU WANT TAKE OWNERSHIP**
+
 # metalsmith-mingo
 
 Wrapper for the [Mingo](https://github.com/kofrasa/mingo) library which allows to make MongoDB style queries in Javascript. You can use this plugin instead of `metalsmith-collections` querying directly in your templates, e.g.:
